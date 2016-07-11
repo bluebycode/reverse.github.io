@@ -7,6 +7,12 @@
 
 @import "reset";
 @import "variables";
+
+@font-face {
+    font-family: "Galada";
+    src: url(https://github.com/vrandkode/vrandkode.resources/raw/master/fonts/Galada-Regular.ttf) format("truetype");
+}
+
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -17,8 +23,11 @@ html {
   font-size: 100%;
 }
 
+h1.site-name {
+  font-family: 'Galada', cursive;
+}
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }

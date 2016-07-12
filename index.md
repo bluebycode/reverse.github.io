@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Home
 ---
-testing2
+
 Books, articles interests list:
 
 ## Systems performance and large scale computing

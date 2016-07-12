@@ -15,7 +15,6 @@ Books, articles interests list:
 * Real-time Data Stream Management System for Large Volume of RFID Events. So Young Choi, Ho Min Jung, Ki Seok Bang, Wan Yeon Lee, Young Woong Ko.
 * Big Data. Hrushikesha Mohanty, Prachet Bhuyan, Deepak Chenthati Editors
 
-
 ## Products delivery
 * Release It!: Design and Deploy Production-Ready Software. Michael T. Nygard
 * Continuous Delivery: Reliable Software Releases Through Build, Test. David Farley and Jez Humble

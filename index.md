@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Home
 ---
 testing
 Books, articles interests list:

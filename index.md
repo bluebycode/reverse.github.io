@@ -2,7 +2,10 @@
 layout: page
 ---
 
-Books, articles interests list:
+
+
+
+A bunch of personal recommended books and articles ...
 
 ## Systems performance and large scale computing
 * Systems Performance: Enterprise and the Cloud. Brendan Gregg

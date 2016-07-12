@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Books and articles of general interest
 ---
 Books, articles interests list:
 

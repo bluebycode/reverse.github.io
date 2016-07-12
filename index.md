@@ -2,9 +2,6 @@
 layout: page
 ---
 
-My name is Álvaro López, also known as vrandkode.
-I'm computer engineer and strong experienced on building high performance large-scale server applications, improving efficiency and scalability of system resources to achieve > 10k ccu. I have been working in game industry for +8 years.
-
 A bunch of personal recommended books and articles ...
 
 ## Systems performance and large scale computing

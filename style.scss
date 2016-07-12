@@ -13,6 +13,11 @@
     src: url(https://github.com/vrandkode/vrandkode.resources/raw/master/fonts/Galada-Regular.ttf) format("truetype");
 }
 
+@font-face {
+    font-family: "Latin";
+    src: url(https://github.com/vrandkode/vrandkode.resources/raw/master/fonts/lmroman12-regular.otf) format("truetype");
+}
+
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -25,12 +30,15 @@ html {
 
 h1.site-name {
   font-family: 'Galada', cursive;
-  font-size: 86px;
+  font-size: 43px;
   color: black;
+  margin-left: 21px;
+  margin-bottom: -22px;
 }
 
 .site-line {
-
+  margin-top: -15px;
+  height: 16px;
 }
 body {
   background: $white;

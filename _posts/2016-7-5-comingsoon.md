@@ -2,6 +2,13 @@
 layout: post
 title: Books and articles of general interest
 ---
+
+Music:
+
+## Environmental music
+* Epic 41-minute relaxing juggernaut https://sellfy.com/p/YtnB/
+
+
 Books, articles interests list:
 
 ## Systems performance and large scale computing

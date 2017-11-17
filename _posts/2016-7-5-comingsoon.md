@@ -3,11 +3,11 @@ layout: post
 title: Books and articles of general interest
 ---
 
-Music:
+## Interests
 
-## Environmental music
-* Epic 41-minute relaxing juggernaut https://sellfy.com/p/YtnB/
+Golang:
 
+* Best practices with golang https://talks.golang.org/2013/bestpractices.slide
 
 Books, articles interests list:
 
